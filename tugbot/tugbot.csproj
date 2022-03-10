@@ -13,4 +13,9 @@
       <PackageReference Include="DSharpPlus.Interactivity" Version="4.1.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="ServerCommands\Rank" />
+      <Folder Include="ServerCommands\Server" />
+    </ItemGroup>
+
 </Project>

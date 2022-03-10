@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amore\\RiderProjects\\tugbot\\tugbot\\tugbot.csproj": {}
+    "C:\\Users\\amore\\RiderProjects\\Tugbot\\tugbot\\tugbot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amore\\RiderProjects\\tugbot\\tugbot\\tugbot.csproj": {
+    "C:\\Users\\amore\\RiderProjects\\Tugbot\\tugbot\\tugbot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amore\\RiderProjects\\tugbot\\tugbot\\tugbot.csproj",
+        "projectUniqueName": "C:\\Users\\amore\\RiderProjects\\Tugbot\\tugbot\\tugbot.csproj",
         "projectName": "tugbot",
-        "projectPath": "C:\\Users\\amore\\RiderProjects\\tugbot\\tugbot\\tugbot.csproj",
+        "projectPath": "C:\\Users\\amore\\RiderProjects\\Tugbot\\tugbot\\tugbot.csproj",
         "packagesPath": "C:\\Users\\amore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amore\\RiderProjects\\tugbot\\tugbot\\obj\\",
+        "outputPath": "C:\\Users\\amore\\RiderProjects\\Tugbot\\tugbot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amore\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\amore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

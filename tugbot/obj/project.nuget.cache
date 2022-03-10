@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xIRxIBThAX04lvFPw75IcBqfXqqXCEqnRqjGJldRVUU3WfZNOGXAtRWn3/BYshNf6xZge6OJ1uJOfk55+AxtOg==",
+  "dgSpecHash": "LmNBgDQSPLDO3iN/qDgZ6DWKLnHpOA7I1XUpg4QUMLt7D06d/WN9zpMl4N6irsUDtYyuWbhXxcBzaaaedig3xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amore\\RiderProjects\\tugbot\\tugbot\\tugbot.csproj",
+  "projectFilePath": "C:\\Users\\amore\\RiderProjects\\Tugbot\\tugbot\\tugbot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amore\\.nuget\\packages\\concurrenthashset\\1.1.0\\concurrenthashset.1.1.0.nupkg.sha512",
     "C:\\Users\\amore\\.nuget\\packages\\dsharpplus\\4.1.0\\dsharpplus.4.1.0.nupkg.sha512",

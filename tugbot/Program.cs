@@ -16,7 +16,7 @@ namespace tugbot
             var discord = new DiscordClient(
                 new DiscordConfiguration()
                 {
-                    Token = "Mjk1MTA1NzExOTIxNDMwNTI4.WNYknA.ZUdwjcQY_RwR6TSsl8aANqMAbIM",
+                    Token = Environment.GetEnvironmentVariable("token"),
                     TokenType = TokenType.Bot
                     //Intents = DiscordIntents.All
                 }
